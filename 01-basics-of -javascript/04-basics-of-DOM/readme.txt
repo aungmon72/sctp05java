@@ -1,0 +1,1 @@
+The user is able to select multiple fruits. When the user press the button, display the total of all the fruits they have selected.
